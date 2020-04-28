@@ -1,0 +1,9 @@
+/*FORM{background-color:#165472;color:gold;font:bold;border-radius:60px;width:30%;padding:20px;margin-top:20px;
+margin-left:;margin-right:;text-align:;border-radius:50px}*/
+
+#container{width:1300;height:auto;margin-left:auto; margin-right:auto; border-radius:20px; margin-top:5px}
+#aside{width:270px;color:gold;padding:20px;height:450px;float:left;margin-right:0px;margin-left:0px;background-color:#165472;text-align:left;}
+#view{width:990px;height:680px;float:right;background-color:white;}
+
+#footer{width:1300;height:200px;background-color:gold}
+li{list-style-type:none;text-decoration:none;}
