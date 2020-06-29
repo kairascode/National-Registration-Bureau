@@ -1,1 +1,2 @@
-# National-Registration-Bureau
+# National-Registration-Bureau Field Management System
+The NFMS system is used to automate the National Registration Bureau's field service operations. It ensures reliable, accurate and timely statistics in the registration of eligible applicants for National Identity cards. This is through the capture of applicants information and photo and consequently the calculation of the various parameters required to form the Bureau's Weekly,Monthly,Bi-annual and annual Statistics. Its developed using PHP,MYSQL,CSS,JAVASCRIPT AND HTML 
